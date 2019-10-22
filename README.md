@@ -1,6 +1,6 @@
 # India ML Hiring Hackathon 2019 by Analytics Vidya
 - Competition Link: https://datahack.analyticsvidhya.com/contest/india-ml-hiring-hackathon-2019/
-- LeaderBoard F1-Score: 0.3057851240 (Public Leaderboard)
+- LeaderBoard F1-Score: 0.4000100000 (Public Leaderboard)
 
 <img src = https://datahack.analyticsvidhya.com/media/__sized__/contest_cover/1920x480_fiqz1Xl-thumbnail-1200x1200.png>
 
@@ -43,4 +43,4 @@ sample_submission.zip contains the submission format for the predictions against
 ## Evaluation Metric
 Submissions are evaluated on F1-Score between the predicted class and the observed target.
 
-# LeaderBoard F1-Score: 0.3057851240 (Public Leaderboard)
+# LeaderBoard F1-Score: 0.4000100000 (Public Leaderboard)
